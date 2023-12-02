@@ -13,10 +13,7 @@ create a simple table using <table> tag in html.
 ### STEP 4
 Add header row using <th> tag.
 ### STEP 5
-Add your timetable using <td> tag.
-### STEP 6
 Execute the program using runserver command.
-
 # CODE
 ~~~
 <html>
@@ -87,7 +84,6 @@ cellpadding="4" border="5" bgcolor="cyan">
  </html>
 ~~~
 # OUPUT
-
 ![Screenshot (70)](https://github.com/MANISHA21SS/timetable/assets/147474298/6171adba-24d3-44a1-b924-5d7730ae66ae)
 # RESULT
 The program for creating myproj timetable using basic HTML tags is executed successfully.
