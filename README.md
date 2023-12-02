@@ -9,7 +9,7 @@ create a Django-admin interface.
 ### STEP 2
 create a static folder and inert HTML code.
 ### STEP 3
-create a simple table using <table> tag in html.
+create a simple table using table tag in html.
 ### STEP 4
 Add header row using <th> tag.
 ### STEP 5
