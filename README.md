@@ -15,19 +15,20 @@ Add header row using <th> tag.
 ### STEP 5
 Execute the program using runserver command.
 # CODE
-~~~
+```
+
 <html>
  <head>
- <tittle></tittle>
+ <tittle> SEC Slot Timetable</tittle>
  </head>
  <body>
  <center>
- <img src="/static/logo.png" height="100" 
+ <img src="saveetha.png" height="100" 
 width="540">
  </center>
  <table align="center" width="540" cellspacing="2" 
 cellpadding="4" border="5" bgcolor="cyan">
- <caption><br>SLOT TIME TABLE - HARINI(23013709)
+ <caption><br>SLOT TIME TABLE - MANISHA (23012275)
 </caption></caption>
  <tr align="center">
  <th bgcolor="yellow">Day/Time</th>
@@ -54,36 +55,38 @@ cellpadding="4" border="5" bgcolor="cyan">
  <td>STATISTICS AND NUMERICAL METHODS</td>
  </tr>
  <tr>
- <th bgcolor="yellow">12-1</th>
- <td colspan="5" align="center">L U N C H</td>
- </tr>
- <tr align="center">
- <th bgcolor="yellow">1-3</th> 
- <td >FREE SLOT</td>
- <td>FREE SLOT</td>
- <td>COMMUNICATIVE ENGLISH</td>
- <td>FUNDAMENTALS OF WEN APPLICATION</td>
- <td>SOFT SKILLS</td>
- </tr>
- <tr align="center">
- <th bgcolor="yellow">3-5</th>
- <td> STATISTICS AND NUMERICAL METHODS</td>
- <td>FREE SLOT</td>
- <td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</td>
- <td>PHYSICS FOR QUANTUM COMPUTATION</td>
- <td>PRINCIPALS OF CHEMISTRY IN ENGINEERING</td>
- </tr>
- <tr>
- <td align="center">6.</td>
- <td align="center">19EY701</td>
- <td>SOFT SKILLS (SS)</td>
- </br>
- </tr>
- </table>
- </body>
- </html>
-~~~
+    <th bgcolor="yellow">12-1</th>
+    <td colspan="5" align="center">L U N C H</td>
+    </tr>
+    <tr align="center">
+    <th bgcolor="yellow">1-3</th> 
+    <td >FREE SLOT</td>
+    <td>FREE SLOT</td>
+    <td>COMMUNICATIVE ENGLISH</td>
+    <td>FUNDAMENTALS OF WEN APPLICATION</td>
+    <td>SOFT SKILLS</td>
+    </tr>
+    <tr align="center">
+    <th bgcolor="yellow">3-5</th>
+    <td> STATISTICS AND NUMERICAL METHODS</td>
+    <td>FREE SLOT</td>
+    <td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</td>
+    <td>PHYSICS FOR QUANTUM COMPUTATION</td>
+    <td>PRINCIPALS OF CHEMISTRY IN ENGINEERING</td>
+    </tr>
+    <tr>
+    <td align="center">6.</td>
+    <td align="center">19EY701</td>
+    <td>SOFT SKILLS (SS)</td>
+    </br>
+    </tr>
+    </table>
+    </body>
+    </html>   
+
+```
 # OUPUT
-![Screenshot (70)](https://github.com/MANISHA21SS/timetable/assets/147474298/6171adba-24d3-44a1-b924-5d7730ae66ae)
+file:///home/sec/Downloads/index.jpeg![image](https://github.com/MANISHA21SS/timetable/assets/147474298/3aeec1c0-e9e8-4a59-b78a-3d91662883bb)
+
 # RESULT
 The program for creating myproj timetable using basic HTML tags is executed successfully.
